@@ -5,7 +5,7 @@
 
 ## Installation
  
-★ Locate the executable file [```pdf_merger.exe```]
+★ Locate the executable file [```notifier.exe```]
 
 ★ Click on the file to start the download process.
 
