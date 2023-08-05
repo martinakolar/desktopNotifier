@@ -13,7 +13,7 @@
 ## Using the program
 ★ Double click on the ```notifier.exe``` file to activate the notifications
 
-★ And that's it! You should be getting the notifications every 5 days now!
+★ And that's it! You should be getting the notifications every 5 days :)
 
 
 ## Contact
