@@ -1,6 +1,6 @@
 # Program for deleting unnecessary files
 
-★ A program that will notify you to clean your PC everyday by using my automation program for deleting unnecessary files ```([Automation_DeleteUnnecessaryFiles](https://github.com/martinakolar/Automation_DeleteUnnecessaryFiles))```.
+★ A program that will notify you to clean your PC everyday by using my automation program for deleting unnecessary files ```([Automation_DeleteUnnecessaryFiles]```(https://github.com/martinakolar/Automation_DeleteUnnecessaryFiles)).
 
 
 ## Installation
